@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/apedin/static/css/main.6b8625f1.chunk.css",
+    "main.js": "/apedin/static/js/main.4c74f2b3.chunk.js",
+    "main.js.map": "/apedin/static/js/main.4c74f2b3.chunk.js.map",
+    "runtime~main.js": "/apedin/static/js/runtime~main.04c0e0f4.js",
+    "runtime~main.js.map": "/apedin/static/js/runtime~main.04c0e0f4.js.map",
+    "static/js/2.bdd85742.chunk.js": "/apedin/static/js/2.bdd85742.chunk.js",
+    "static/js/2.bdd85742.chunk.js.map": "/apedin/static/js/2.bdd85742.chunk.js.map",
+    "index.html": "/apedin/index.html",
+    "precache-manifest.bd3a2ba7dcd3c7d7318cedd9e6e6b04a.js": "/apedin/precache-manifest.bd3a2ba7dcd3c7d7318cedd9e6e6b04a.js",
+    "service-worker.js": "/apedin/service-worker.js",
+    "static/css/main.6b8625f1.chunk.css.map": "/apedin/static/css/main.6b8625f1.chunk.css.map",
+    "static/media/logo.png": "/apedin/static/media/logo.46a3f1f9.png"
+  }
+}
