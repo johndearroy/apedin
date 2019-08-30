@@ -1,16 +1,22 @@
 {
   "files": {
-    "main.css": "/apedin/static/css/main.6b8625f1.chunk.css",
-    "main.js": "/apedin/static/js/main.4c74f2b3.chunk.js",
-    "main.js.map": "/apedin/static/js/main.4c74f2b3.chunk.js.map",
+    "main.css": "/apedin/static/css/main.6610365f.chunk.css",
+    "main.js": "/apedin/static/js/main.836d98f6.chunk.js",
+    "main.js.map": "/apedin/static/js/main.836d98f6.chunk.js.map",
     "runtime~main.js": "/apedin/static/js/runtime~main.04c0e0f4.js",
     "runtime~main.js.map": "/apedin/static/js/runtime~main.04c0e0f4.js.map",
-    "static/js/2.bdd85742.chunk.js": "/apedin/static/js/2.bdd85742.chunk.js",
-    "static/js/2.bdd85742.chunk.js.map": "/apedin/static/js/2.bdd85742.chunk.js.map",
+    "static/js/2.a6ffbe91.chunk.js": "/apedin/static/js/2.a6ffbe91.chunk.js",
+    "static/js/2.a6ffbe91.chunk.js.map": "/apedin/static/js/2.a6ffbe91.chunk.js.map",
     "index.html": "/apedin/index.html",
-    "precache-manifest.bd3a2ba7dcd3c7d7318cedd9e6e6b04a.js": "/apedin/precache-manifest.bd3a2ba7dcd3c7d7318cedd9e6e6b04a.js",
+    "precache-manifest.94620b6eaf9093b57625798d313ce91a.js": "/apedin/precache-manifest.94620b6eaf9093b57625798d313ce91a.js",
     "service-worker.js": "/apedin/service-worker.js",
-    "static/css/main.6b8625f1.chunk.css.map": "/apedin/static/css/main.6b8625f1.chunk.css.map",
+    "static/css/main.6610365f.chunk.css.map": "/apedin/static/css/main.6610365f.chunk.css.map",
+    "static/media/c-1.jpg": "/apedin/static/media/c-1.4fa7890f.jpg",
+    "static/media/c-2.jpg": "/apedin/static/media/c-2.ef4c4e2a.jpg",
+    "static/media/img-1.jpg": "/apedin/static/media/img-1.f42fb552.jpg",
+    "static/media/img-2.jpg": "/apedin/static/media/img-2.2df95cf2.jpg",
+    "static/media/img-3.png": "/apedin/static/media/img-3.01841080.png",
+    "static/media/img-4.png": "/apedin/static/media/img-4.ed486359.png",
     "static/media/logo.png": "/apedin/static/media/logo.46a3f1f9.png"
   }
 }
