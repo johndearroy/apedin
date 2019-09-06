@@ -1,25 +1,29 @@
 {
   "files": {
-    "main.css": "/apedin/static/css/main.fd939517.chunk.css",
-    "main.js": "/apedin/static/js/main.e2938aa1.chunk.js",
-    "main.js.map": "/apedin/static/js/main.e2938aa1.chunk.js.map",
+    "main.css": "/apedin/static/css/main.73865ce9.chunk.css",
+    "main.js": "/apedin/static/js/main.f6e65870.chunk.js",
+    "main.js.map": "/apedin/static/js/main.f6e65870.chunk.js.map",
     "runtime~main.js": "/apedin/static/js/runtime~main.04c0e0f4.js",
     "runtime~main.js.map": "/apedin/static/js/runtime~main.04c0e0f4.js.map",
-    "static/js/2.cd2cf42d.chunk.js": "/apedin/static/js/2.cd2cf42d.chunk.js",
-    "static/js/2.cd2cf42d.chunk.js.map": "/apedin/static/js/2.cd2cf42d.chunk.js.map",
+    "static/js/2.fcaef04b.chunk.js": "/apedin/static/js/2.fcaef04b.chunk.js",
+    "static/js/2.fcaef04b.chunk.js.map": "/apedin/static/js/2.fcaef04b.chunk.js.map",
     "index.html": "/apedin/index.html",
-    "precache-manifest.155ef82d7f20bddb04f7ff0cb7a67edd.js": "/apedin/precache-manifest.155ef82d7f20bddb04f7ff0cb7a67edd.js",
+    "precache-manifest.8f9c62828fccadc2f48635c61fb3f1bd.js": "/apedin/precache-manifest.8f9c62828fccadc2f48635c61fb3f1bd.js",
     "service-worker.js": "/apedin/service-worker.js",
-    "static/css/main.fd939517.chunk.css.map": "/apedin/static/css/main.fd939517.chunk.css.map",
+    "static/css/main.73865ce9.chunk.css.map": "/apedin/static/css/main.73865ce9.chunk.css.map",
     "static/media/2.png": "/apedin/static/media/2.64c550d1.png",
     "static/media/3.png": "/apedin/static/media/3.79b799e5.png",
     "static/media/4.png": "/apedin/static/media/4.a07e9b5b.png",
-    "static/media/c-1.jpg": "/apedin/static/media/c-1.4fa7890f.jpg",
     "static/media/cooking.png": "/apedin/static/media/cooking.3c868d5f.png",
     "static/media/dairy.png": "/apedin/static/media/dairy.95e9716e.png",
     "static/media/img-1.jpg": "/apedin/static/media/img-1.f42fb552.jpg",
     "static/media/img-2.jpg": "/apedin/static/media/img-2.2df95cf2.jpg",
     "static/media/img-3.png": "/apedin/static/media/img-3.01841080.png",
-    "static/media/logo.png": "/apedin/static/media/logo.46a3f1f9.png"
+    "static/media/logo.png": "/apedin/static/media/logo.46a3f1f9.png",
+    "static/media/p-1.jpg": "/apedin/static/media/p-1.d3e22a64.jpg",
+    "static/media/p-2.jpg": "/apedin/static/media/p-2.cb132ca6.jpg",
+    "static/media/p-3.png": "/apedin/static/media/p-3.426d40dd.png",
+    "static/media/p-4.gif": "/apedin/static/media/p-4.5cd2e5b0.gif",
+    "static/media/p-5.jpg": "/apedin/static/media/p-5.03ed963c.jpg"
   }
 }
